@@ -10,7 +10,6 @@ ul {
   li {
     float: left;
   }
-  
   li a {
     display: block;
     color: white;
@@ -22,3 +21,32 @@ ul {
   li a:hover {
     background-color: #111;
   }
+  .image{
+    width: 500px;
+    height: 400px;
+  }
+  .profits{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color:burlywood
+  }
+  .footer{
+    text-align: center;
+    font-size: small;
+    color: darkgray;
+}
+.right{
+    position: absolute;
+    right: 0px;
+    padding: 10px;
+}
+h1{
+  color:darkgrey;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+  text-decoration: none;
+}
+.maps{
+  padding-left: 40px;
+}
